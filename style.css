@@ -76,7 +76,7 @@ h1{
         clear: right;
         font-size: large;
         text-align: justify;
-        color: white;
+        color: black;
         margin: 0;
         padding: 10px;
     }
@@ -125,7 +125,7 @@ h1{
         background-color: orange;
         font-size: x-large;
         text-align: center;
-        color: white;
+        color: black;
         float: right;
         width: 150px;
         padding: 5px;
@@ -144,7 +144,7 @@ h1{
         clear: right;
         font-size: large;
         text-align: justify;
-        color: white;
+        color: black;
         margin: 0;
         padding: 10px;
     }
@@ -212,7 +212,7 @@ h1{
     clear: right;
     font-size: large;
     text-align: justify;
-    color:white;
+    color:black;
     margin: 0;
     padding: 10px;
     }
